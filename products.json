@@ -1,0 +1,147 @@
+[
+    {
+        "id": 1,
+        "name": "Tiramisu",
+        "price": "$35",
+        "image": "images/tiramisu.png"
+    },
+    {
+        "id": 2,
+        "name": "Almond Cake",
+        "price": "$18",
+        "image": "images/Almond Cake.png"
+    },
+    {
+        "id": 3,
+        "name": " Fruit CheeseCake",
+        "price": "$5",
+        "image": "images/Cheesecake With Fresh Fruit.png"
+    },
+    {
+        "id": 4,
+        "name": "Choco Donut",
+        "price": "$4",
+        "image": "images/choco donut.png"
+    },
+    {
+        "id": 5,
+        "name": "Chocolate Crumpets",
+        "price": "$3",
+        "image": "images/Chocolate Crumpets.png"
+    },
+    {
+        "id": 6,
+        "name": "Chocolate Fudge Cake",
+        "price": "$20",
+        "image": "images/Chocolate Fudge Cake.png"
+    },
+    {
+        "id": 7,
+        "name": "Double Layer Waffle",
+        "price": "$8",
+        "image": "images/Double layer chocolate waffle.png"
+    },
+    {
+        "id": 8,
+        "name": "Briouats Pasteries",
+        "price": "$6",
+        "image": "images/Briouats pasteries.png"
+    },
+    {
+        "id": 9,
+        "name": "Chocolate Truffle",
+        "price": "$6",
+        "image": "images/Chocolate Truffles.png"
+    },
+    {
+        "id": 10,
+        "name": "Chocolate Fudge",
+        "price": "$8",
+        "image": "images/Chocolate Fudge.png"
+    },
+    {
+        "id": 11,
+        "name": "Churos",
+        "price": "$5",
+        "image": "images/churos.png"
+    },
+    {
+        "id": 12,
+        "name": "Cream Puff",
+        "price": "$3",
+        "image": "images/Cream Puff.png"
+    },
+    {
+        "id": 13,
+        "name": "Croissant",
+        "price": "$4",
+        "image": "images/croissant.png"
+    },
+    {
+        "id": 14,
+        "name": "Chocolate Cupcake",
+        "price": "$3.50",
+        "image": "images/Cupcake Chocolate.png"
+    },
+    {
+        "id": 15,
+        "name": "Strawberry Cupcake",
+        "price": "$3.75",
+        "image": "images/Cupcake Pink.png"
+    },
+    {
+        "id": 16,
+        "name": "Ferrero Rocher Cake",
+        "price": "$25",
+        "image": "images/ferroro rocher.png"
+    },
+    {
+        "id": 17,
+        "name": "Sweet Dough Balls",
+        "price": "$5",
+        "image": "images/Sweet Dough Balls.png"
+    },
+    {
+        "id": 18,
+        "name": "Oatmeal Cookies",
+        "price": "$2",
+        "image": "images/Oatmeal Cookies.png"
+    },
+    {
+        "id": 19,
+        "name": "Trio Cupcakes",
+        "price": "$9",
+        "image": "images/Cupcake Trio.png"
+    },
+    {
+        "id": 20,
+        "name": "Rice cake",
+        "price": "$16",
+        "image": "images/rice cake.png"
+    },
+    {
+        "id": 20,
+        "name": "Sweet Braided Bread",
+        "price": "$15",
+        "image": "images/Sweet Braided Bread.png"
+    },
+    {
+        "id": 21,
+        "name": "Merveilleux Cake",
+        "price": "$22",
+        "image": "images/Merveilleux Cake.png"
+    },
+     {
+        "id": 22,
+        "name": "No bake cheesecake",
+        "price": "$10",
+        "image": "images/No Bake Strawberry Cheesecake.png"
+    },
+    {
+        "id": 23,
+        "name": " Dark Choco Cookies",
+        "price": "$7",
+        "image": "images/Dark Chocolate Cookies.png"
+    }
+    
+]
