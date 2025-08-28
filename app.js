@@ -22,7 +22,7 @@ const bars = document.querySelector(".fa-bars");
 cartIcon.addEventListener("click", () => cartTab.classList.add('cart-tab-active'));
 closebtn.addEventListener("click", () => cartTab.classList.remove('cart-tab-active'));
 hamburger.addEventListener("click", () => mobileMenu.classList.toggle('mobile-menu-active'));
-hamburger.addEventListener("click", () => bars.classList.toggle('fa-xmark'));
+
 
 let productList = [];
 let cartProd = [];
