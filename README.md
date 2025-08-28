@@ -1,4 +1,4 @@
-#  ugaBae – Food Delivery Website  
+#  SugaBae – Food Delivery Website  
 
 A responsive dessert delivery web app built with HTML, CSS, JavaScript, and powered by a Node.js backend.  
 It includes a dynamic menu (from JSON), shopping cart, mobile navigation, customer reviews carousel, and more.  
